@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/AugJavaBatch.iml" filepath="$PROJECT_DIR$/.idea/AugJavaBatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SampleJavaApp/SampleJavaApp.iml" filepath="$PROJECT_DIR$/SampleJavaApp/SampleJavaApp.iml" />
     </modules>
   </component>
 </project>
