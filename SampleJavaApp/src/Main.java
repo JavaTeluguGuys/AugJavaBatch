@@ -6,6 +6,8 @@ public class Main {
 		
 		System.out.println("New message is added by Dileep!");
 		
-		System.out.println("Another message is added by Dileep!");
+		System.out.println("Dileep Another message is added!");
+
+        System.out.println("commit done on IntelliJ");
     }
 }
